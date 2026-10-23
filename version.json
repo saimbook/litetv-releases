@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/saimbook/litetv-releases/releases/download/v1.0.14/LiteTV-1.0.14.apk",
-  "sha256": "f4016f0f624ee1dcffb0c6847edcaf018aa807c67d1446014813200c979cec6c",
-  "changelog": "Rename google-services (8).json to google-services.json",
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "apkUrl": "https://github.com/saimbook/litetv-releases/releases/download/v1.0.17/LiteTV-1.0.17.apk",
+  "sha256": "bab2ff7db9424978c03863ae31b212455c18477d46d3fbd764a10fe28a97e47f",
+  "changelog": "Rename google-services .json to google-services.json",
   "force": false,
   "minVersionCode": 1
 }
