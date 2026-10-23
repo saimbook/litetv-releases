@@ -1,1 +1,9 @@
-{"versionCode":1,"versionName":"1.0.0","apkUrl":"https://github.com/saimbook/litetv-releases/releases/download/v1.0.0/LiteTV-1.0.0.apk","sha256":"","changelog":"প্রথম ভার্সন","force":false,"minVersionCode":1}
+{
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/saimbook/litetv-releases/releases/download/v1.0.10/LiteTV-1.0.10.apk",
+  "sha256": "1ee0a1a1ee2222a4f69cef25796562bcfcee221ad15f21aad3e6b0ea79ee5a33",
+  "changelog": "Refactor build.gradle.kts for clarity and organization",
+  "force": false,
+  "minVersionCode": 1
+}
